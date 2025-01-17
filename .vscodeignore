@@ -1,0 +1,7 @@
+.gitchangelog.rc
+.github/**
+.gitignore
+.pytest_cache/**
+.venv/**
+.vscode-test/**
+.vscode/**

@@ -1,0 +1,37 @@
+{
+  "name": "aws-cloudformation-extension-pack",
+  "displayName": "AWS CloudFormation Extension Pack",
+  "description": "Collection of extensions focused on AWS CloudFormation development",
+  "version": "1.0.0",
+  "publisher": "dannysteenman",
+  "icon": "images/cfn-extension-pack-icon.png",
+  "homepage": "https://towardsthecloud.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dannysteenman/vscode-cloudformation-extension-pack.git"
+  },
+  "engines": {
+    "vscode": "^1.96.0"
+  },
+  "galleryBanner": {
+    "color": "#2B2C33",
+    "theme": "dark"
+  },
+  "categories": ["Extension Packs"],
+  "keywords": ["aws", "cloudformation", "iac"],
+  "badges": [
+    {
+      "url": "https://img.shields.io/visual-studio-marketplace/stars/dannysteenman.aws-cloudformation-extension-pack",
+      "href": "https://marketplace.visualstudio.com/items?itemName=dannysteenman.aws-cloudformation-extension-pack",
+      "description": "Rating"
+    }
+  ],
+  "extensionPack": [
+    "amazonwebservices.aws-toolkit-vscode",
+    "dannysteenman.cloudformation-yaml-snippets",
+    "dannysteenman.iam-actions-snippets",
+    "hediet.vscode-drawio",
+    "kddejong.vscode-cfn-lint",
+    "redhat.vscode-yaml"
+  ]
+}

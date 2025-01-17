@@ -1,0 +1,37 @@
+name: Create changelog and publish extension pack to marketplace
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch: {}
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: ">=20.0.0"
+      - name: Set up git-cliff
+        uses: kenji-miyake/setup-git-cliff@v1
+      - name: Bump version and update changelog
+        run: |
+          set -x -e
+          git config --global user.name 'Github Actions'
+          git config --global user.email 'danny@towardsthecloud.com'
+          npm version minor --force --no-git-tag-version
+          package_version=$(cat package.json|grep 'version":'|sed 's/[",]//g'|awk '{print $2}')
+          git commit -am "Bump package version to: $package_version"
+          git tag $package_version
+          git cliff -o
+          git commit -am "Changelog version: $package_version"
+          git push
+          git push origin --tags
+      - name: Publish to Visual Studio Marketplace
+        uses: HaaLeo/publish-vscode-extension@v1
+        with:
+          pat: ${{ secrets.VSCE_TOKEN }}
+          registryUrl: https://marketplace.visualstudio.com
