@@ -2,7 +2,7 @@
   "name": "aws-cloudformation-extension-pack",
   "displayName": "AWS CloudFormation Extension Pack",
   "description": "Collection of extensions focused on AWS CloudFormation development",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "publisher": "dannysteenman",
   "icon": "images/cfn-extension-pack-icon.png",
   "homepage": "https://towardsthecloud.com",
@@ -27,6 +27,16 @@
     "iac"
   ],
   "badges": [
+    {
+      "url": "https://img.shields.io/visual-studio-marketplace/v/dannysteenman.aws-cloudformation-extension-pack",
+      "href": "https://marketplace.visualstudio.com/items?itemName=dannysteenman.aws-cloudformation-extension-pack",
+      "description": "Version"
+    },
+    {
+      "url": "https://img.shields.io/visual-studio-marketplace/i/dannysteenman.aws-cloudformation-extension-pack",
+      "href": "https://marketplace.visualstudio.com/items?itemName=dannysteenman.aws-cloudformation-extension-pack",
+      "description": "Installs"
+    },
     {
       "url": "https://img.shields.io/visual-studio-marketplace/stars/dannysteenman.aws-cloudformation-extension-pack",
       "href": "https://marketplace.visualstudio.com/items?itemName=dannysteenman.aws-cloudformation-extension-pack",
