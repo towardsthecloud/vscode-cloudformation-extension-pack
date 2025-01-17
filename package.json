@@ -2,7 +2,7 @@
   "name": "aws-cloudformation-extension-pack",
   "displayName": "AWS CloudFormation Extension Pack",
   "description": "Collection of extensions focused on AWS CloudFormation development",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "publisher": "dannysteenman",
   "icon": "images/cfn-extension-pack-icon.png",
   "homepage": "https://towardsthecloud.com",
@@ -17,8 +17,14 @@
     "color": "#2B2C33",
     "theme": "dark"
   },
-  "categories": ["Extension Packs"],
-  "keywords": ["aws", "cloudformation", "iac"],
+  "categories": [
+    "Extension Packs"
+  ],
+  "keywords": [
+    "aws",
+    "cloudformation",
+    "iac"
+  ],
   "badges": [
     {
       "url": "https://img.shields.io/visual-studio-marketplace/stars/dannysteenman.aws-cloudformation-extension-pack",
