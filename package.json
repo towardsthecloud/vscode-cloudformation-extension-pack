@@ -47,6 +47,7 @@
     "amazonwebservices.aws-toolkit-vscode",
     "dannysteenman.cloudformation-yaml-snippets",
     "dannysteenman.iam-actions-snippets",
+    "dannysteenman.iam-service-principal-snippets",
     "hediet.vscode-drawio",
     "kddejong.vscode-cfn-lint",
     "redhat.vscode-yaml"

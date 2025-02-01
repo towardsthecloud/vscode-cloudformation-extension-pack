@@ -40,9 +40,10 @@ This extension pack includes the following VS Code extensions:
 1. **AWS Toolkit for Visual Studio Code**: Provides support for developing AWS applications
 2. **CloudFormation Snippets**: Provides YAML and JSON snippets for all AWS CloudFormation resources
 3. **AWS IAM Actions Snippets**: Adds autocomplete and snippets for all AWS IAM policy actions
-4. **Draw.io Integration**: Integrates Draw.io diagrams into VS Code
-5. **CloudFormation Linter**: Validates CloudFormation templates for best practices
-6. **YAML**: Provides comprehensive YAML language support
+4. **AWS IAM Service Principal Snippets**: Autocompletion for AWS service principals.
+5. **Draw.io Integration**: Integrates Draw.io diagrams into VS Code
+6. **CloudFormation Linter**: Validates CloudFormation templates for best practices
+7. **YAML**: Provides comprehensive YAML language support
 
 ## Installation
 
