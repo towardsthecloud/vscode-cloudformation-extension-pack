@@ -9,7 +9,7 @@
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/dannysteenman/vscode-cloudformation-extension-pack.git"
+    "url": "https://github.com/towardsthecloud/vscode-cloudformation-extension-pack.git"
   },
   "engines": {
     "vscode": "^1.96.0"
@@ -18,14 +18,8 @@
     "color": "#2B2C33",
     "theme": "dark"
   },
-  "categories": [
-    "Extension Packs"
-  ],
-  "keywords": [
-    "aws",
-    "cloudformation",
-    "iac"
-  ],
+  "categories": ["Extension Packs"],
+  "keywords": ["aws", "cloudformation", "iac"],
   "badges": [
     {
       "url": "https://img.shields.io/visual-studio-marketplace/v/dannysteenman.aws-cloudformation-extension-pack",

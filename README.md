@@ -61,7 +61,7 @@ For specific usage instructions for each extension, please refer to their indivi
 ---
 ## Feedback and Contributions
 
-If you have any feedback or suggestions for improving this extension pack, please open an issue on the [GitHub repository](https://github.com/dannysteenman/vscode-cloudformation-extension-pack/issues). Contributions are always welcome!
+If you have any feedback or suggestions for improving this extension pack, please open an issue on the [GitHub repository](https://github.com/towardsthecloud/vscode-cloudformation-extension-pack/issues). Contributions are always welcome!
 
 Happy templating with AWS CloudFormation!
 
@@ -69,6 +69,6 @@ Happy templating with AWS CloudFormation!
 
 [Danny Steenman](https://towardsthecloud.com/about)
 
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dannysteenman)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/towardsthecloud)
 [![](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/dannysteenman)
-[![](https://img.shields.io/badge/GitHub-2b3137?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dannysteenman)
+[![](https://img.shields.io/badge/GitHub-2b3137?style=for-the-badge&logo=github&logoColor=white)](https://github.com/towardsthecloud)
