@@ -45,6 +45,7 @@
   ],
   "extensionPack": [
     "amazonwebservices.aws-toolkit-vscode",
+    "boto3typed.boto3-ide",
     "dannysteenman.cloudformation-yaml-snippets",
     "dannysteenman.iam-actions-snippets",
     "dannysteenman.iam-service-principal-snippets",
