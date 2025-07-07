@@ -5,13 +5,18 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [1.9.0] - 2025-07-04
+## [1.10.0] - 2025-07-07
 
 ### Changed
 - Update README.md by @dannysteenman
 
 ## New Contributors
 * @dannysteenman made their first contribution
+## [1.9.0] - 2025-07-04
+
+### Changed
+- Update README.md by @dannysteenman
+
 ## [1.8.0] - 2025-06-10
 
 ### Added
@@ -54,6 +59,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## New Contributors
 * @dannysteenman made their first contribution
+[1.10.0]: https://github.com/towardsthecloud/vscode-cloudformation-extension-pack/compare/1.9.0..1.10.0
 [1.9.0]: https://github.com/towardsthecloud/vscode-cloudformation-extension-pack/compare/1.8.0..1.9.0
 [1.8.0]: https://github.com/towardsthecloud/vscode-cloudformation-extension-pack/compare/1.7.0..1.8.0
 [1.7.0]: https://github.com/towardsthecloud/vscode-cloudformation-extension-pack/compare/1.6.0..1.7.0
