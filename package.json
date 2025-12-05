@@ -2,7 +2,7 @@
   "name": "aws-cloudformation-extension-pack",
   "displayName": "AWS CloudFormation Extension Pack",
   "description": "Collection of extensions focused on AWS CloudFormation development",
-  "version": "1.12.0",
+  "version": "1.13.0",
   "publisher": "dannysteenman",
   "icon": "images/cfn-extension-pack-icon.png",
   "homepage": "https://towardsthecloud.com",
