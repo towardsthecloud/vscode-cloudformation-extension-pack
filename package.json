@@ -26,23 +26,6 @@
     "cloudformation",
     "iac"
   ],
-  "badges": [
-    {
-      "url": "https://img.shields.io/visual-studio-marketplace/v/dannysteenman.aws-cloudformation-extension-pack",
-      "href": "https://marketplace.visualstudio.com/items?itemName=dannysteenman.aws-cloudformation-extension-pack",
-      "description": "Version"
-    },
-    {
-      "url": "https://img.shields.io/visual-studio-marketplace/i/dannysteenman.aws-cloudformation-extension-pack",
-      "href": "https://marketplace.visualstudio.com/items?itemName=dannysteenman.aws-cloudformation-extension-pack",
-      "description": "Installs"
-    },
-    {
-      "url": "https://img.shields.io/visual-studio-marketplace/stars/dannysteenman.aws-cloudformation-extension-pack",
-      "href": "https://marketplace.visualstudio.com/items?itemName=dannysteenman.aws-cloudformation-extension-pack",
-      "description": "Rating"
-    }
-  ],
   "extensionPack": [
     "amazonwebservices.aws-toolkit-vscode",
     "boto3typed.boto3-ide",

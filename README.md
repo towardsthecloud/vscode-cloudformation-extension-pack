@@ -1,9 +1,5 @@
 # AWS CloudFormation Extension Pack
 
-[![Version](https://img.shields.io/visual-studio-marketplace/v/dannysteenman.aws-cloudformation-extension-pack?color=374151&label=Visual%20Studio%20Marketplace&labelColor=000&logo=visual-studio-code&logoColor=0098FF)](https://marketplace.visualstudio.com/items?itemName=dannysteenman.aws-cloudformation-extension-pack)
-[![Installs](https://img.shields.io/visual-studio-marketplace/i/dannysteenman.aws-cloudformation-extension-pack 'Currently Installed')](https://marketplace.visualstudio.com/items?itemName=dannysteenman.aws-cloudformation-extension-pack)
-[![Rating](https://img.shields.io/visual-studio-marketplace/stars/dannysteenman.aws-cloudformation-extension-pack)](https://marketplace.visualstudio.com/items?itemName=dannysteenman.aws-cloudformation-extension-pack)
-
 This is a collection of extensions that I've curated in this vscode extension pack to help you build, deploy and manage your AWS CloudFormation templates.
 
 <!-- TIP-LIST:START -->
