@@ -38,9 +38,10 @@ This extension pack includes the following VS Code extensions:
 3. **CloudFormation Snippets**: Provides YAML and JSON snippets for all AWS CloudFormation resources
 4. **AWS IAM Actions Snippets**: Adds autocomplete and snippets for all AWS IAM policy actions
 5. **AWS IAM Service Principal Snippets**: Autocompletion for AWS service principals.
-6. **Draw.io Integration**: Integrates Draw.io diagrams into VS Code
-7. **CloudFormation Linter**: Validates CloudFormation templates for best practices
-8. **YAML**: Provides comprehensive YAML language support
+6. **[AWS IAM Policy Debugger](https://github.com/towardsthecloud/vscode-iam-policy-debugger)**: Validate IAM policies, explain access requests and run saved regression scenarios. Unpublished development preview; this pack update must be released after the debugger is available in the Marketplace.
+7. **Draw.io Integration**: Integrates Draw.io diagrams into VS Code
+8. **CloudFormation Linter**: Validates CloudFormation templates for best practices
+9. **YAML**: Provides comprehensive YAML language support
 
 ## Installation
 
