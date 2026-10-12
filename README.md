@@ -35,9 +35,9 @@ This extension pack includes the following VS Code extensions:
 
 1. **AWS Toolkit for Visual Studio Code**: Provides support for developing AWS applications
 2. **Boto3 IDE**: Provides intelligent code completion, type checking, and documentation for AWS boto3 SDK
-3. **CloudFormation Snippets**: Provides YAML and JSON snippets for all AWS CloudFormation resources
-4. **AWS IAM Actions Snippets**: Adds autocomplete and snippets for all AWS IAM policy actions
-5. **AWS IAM Service Principal Snippets**: Autocompletion for AWS service principals.
+3. **[CloudFormation Snippets](https://github.com/towardsthecloud/vscode-cloudformation-snippets)**: Provides YAML and JSON snippets for all AWS CloudFormation resources
+4. **[AWS IAM Actions Snippets](https://github.com/towardsthecloud/vscode-iam-actions-snippets)**: Adds autocomplete and snippets for all AWS IAM policy actions
+5. **[AWS IAM Service Principal Snippets](https://github.com/towardsthecloud/vscode-iam-service-principal-snippets)**: Autocompletion for AWS service principals.
 6. **[AWS IAM Policy Debugger](https://github.com/towardsthecloud/vscode-iam-policy-debugger)**: Validate IAM policies, explain access requests and run saved regression scenarios. Unpublished development preview; this pack update must be released after the debugger is available in the Marketplace.
 7. **Draw.io Integration**: Integrates Draw.io diagrams into VS Code
 8. **CloudFormation Linter**: Validates CloudFormation templates for best practices
