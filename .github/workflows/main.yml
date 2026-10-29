@@ -28,7 +28,7 @@ jobs:
           npm version minor --force --no-git-tag-version
           package_version=$(cat package.json|grep 'version":'|sed 's/[",]//g'|awk '{print $2}')
           git commit -am "Bump package version to: $package_version"
-          git tag $package_version
+          git tag "$package_version"
           git cliff -o
           git commit -am "Changelog version: $package_version"
           git push
